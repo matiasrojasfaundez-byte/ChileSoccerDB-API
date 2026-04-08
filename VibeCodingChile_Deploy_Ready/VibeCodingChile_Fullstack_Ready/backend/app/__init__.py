@@ -1,0 +1,1 @@
+"""VibeCodingChile backend package."""
